@@ -21,7 +21,7 @@ function chake(){
     num.innerText=nope
   } else{
     nope=1000000
-    num.innerText='Your Have to Brake this egg by clicking this egg 1000000';
+    num.innerText='Your Have to Brake this egg by clicking this egg 1000000 times';
   }
 }
 chake()
