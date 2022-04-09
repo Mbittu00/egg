@@ -1,0 +1,30 @@
+body {
+    font-size: 15pt;
+background: linear-gradient(pink,aqua);
+height: 100vh
+  
+}
+#img{
+  width: 96vw;
+}
+#num{
+  color: black;
+  text-align: center;
+  font-weight: bolder;
+  background: -webkit-linear-gradient(#EEFA70,
+  #70FACF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@keyframes sake{
+  from{
+    transform: rotate(-6deg)
+  }to{
+    transform: rotate(12deg)
+  }
+}
+.con{
+  width: 96vw;
+  text-align: center;
+}
